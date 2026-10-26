@@ -1,0 +1,7 @@
+Check,Status,Details
+Duplicated rows,PASS,0 duplicated rows
+Missing values (EEM table),PASS,0 missing values
+Uniform Ex rows per sample,PASS,"Mode=59, unique counts=[59]"
+Identical Ex wavelengths across samples,PASS,Mismatched: []
+Missing values (Metadata),PASS,0 missing values
+All EEM samples in Metadata,PASS,Missing: []
